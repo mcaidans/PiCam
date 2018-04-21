@@ -1,3 +1,4 @@
 *.vcxproj
+*.vcxproj.*
 .vs
-.sln
+*.sln
